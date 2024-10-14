@@ -9,3 +9,4 @@ Recommender systems are the unsung heroes of our modern technological world. Sea
 
 At a fundamental level, these systems operate using similarity, where we try to match people (users) to things (items). Two primary approaches are used in recommender systems are content-based and collaborative-based filtering.  In content-based filtering this similarity is measured between items based on their properties, while collaborative filtering uses similarities amongst users to drive recommendations.
 
+
